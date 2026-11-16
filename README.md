@@ -4,6 +4,8 @@ Zotero tools for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harn
 
 Reads go through Zotero's local HTTP API (read-only). Writes go through the Zotero Web API, so they need an API key with write access.
 
+English | [中文](README.zh.md)
+
 ## Tools
 
 | Tool | What it does |
