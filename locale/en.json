@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Zotero library",
+    "description": "Search and read your local Zotero library, then add items by DOI, edit fields, manage tags and collections, and attach notes. Reading uses the local API; writing uses the Zotero Web API key.",
+    "detail": "docs/DETAIL.md"
+  }
+}

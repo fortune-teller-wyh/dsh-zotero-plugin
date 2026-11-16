@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Zotero 文库",
+    "description": "搜索并读取本机 Zotero 文库，还能按 DOI 添加条目、修改字段、管理标签与合集、追加笔记。读取走本地 API，写入走 Zotero Web API key。",
+    "detail": "docs/DETAIL.md"
+  }
+}

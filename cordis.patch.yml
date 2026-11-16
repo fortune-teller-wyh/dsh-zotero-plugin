@@ -1,0 +1,7 @@
+# Bundle patch: mount the read-only Zotero tool plugin.
+- insert:
+    - id: zotero
+      name: '@local/zotero'
+      config:
+        baseUrl: http://127.0.0.1:23119
+        api: users/0
